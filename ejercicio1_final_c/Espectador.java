@@ -44,5 +44,4 @@ public class Espectador {
 				.forEach(System.out::println);
 				
 	}
-
 }
